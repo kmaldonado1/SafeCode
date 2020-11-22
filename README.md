@@ -1,12 +1,18 @@
 # SafeCode
 An anti-harassment application
+
 Team Members:
+
 Jianna Loor
+
 Kimberley Maldonado
+
 Renato Valchez
+
 Ricky Wilde
 
 Extra Credit for Professor Dolezal
+
 CSIT-112-03
 
 Problem:
